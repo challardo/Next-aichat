@@ -1,3 +1,6 @@
+
+<img width="564" alt="Screenshot 2023-08-03 at 2 00 32 a m" src="https://github.com/challardo/Next-aichat/assets/83609061/73eae5ab-53a4-4cd3-a7e7-134b0e07990b">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
